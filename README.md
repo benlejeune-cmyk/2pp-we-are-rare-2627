@@ -13,3 +13,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
+
+* [Ben Lejeune](./people/ben_lejeune.md)
